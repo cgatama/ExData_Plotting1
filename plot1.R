@@ -41,7 +41,7 @@ pwData$dateTime <- as.POSIXct(dateTime)
 
 ## Active Global Power Hist
 
-hist(pwData$Global_active_power, main="Global Active Power", xlab = "Global    Active Power (kilowatts)", col="red")
+hist(pwData$Global_active_power, main="Global Active Power", xlab = "Global Active Power (kilowatts)", col="red")
 
 ## Save plot1 as PNG file with a width of 480 pixels and a height of           
 ##480pixels

@@ -1,7 +1,7 @@
 ---
 title: "Exploratory Data Analysis - Peer-graded Assignment: Course Project 1"
-author: "Karl Broman"
-date: "21 Feb 2021"
+author: "Charles Gatama
+date: "21 Feb 2020"
 output: html_document
 ---
 ## set global options that apply to every chunk in your file, call knitr::opts_chunk$set
