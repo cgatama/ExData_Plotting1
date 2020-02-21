@@ -1,3 +1,14 @@
+---
+title: "Exploratory Data Analysis - Peer-graded Assignment: Course Project 1"
+author: "Karl Broman"
+date: "21 Feb 2021"
+output: html_document
+---
+## set global options that apply to every chunk in your file, call knitr::opts_chunk$set
+
+
+
+
 ## Introduction
 
 This assignment uses data from
@@ -35,10 +46,6 @@ web site</a>:
 
 ## Loading the data
 
-
-
-
-
 When loading the dataset into R, please consider the following:
 
 * The dataset has 2,075,259 rows and 9 columns. First
@@ -58,6 +65,12 @@ functions.
 * Note that in this dataset missing values are coded as `?`.
 
 
+
+
+
+
+
+
 ## Making Plots
 
 Our overall goal here is simply to examine how household energy usage
@@ -65,8 +78,7 @@ varies over a 2-day period in February, 2007. Your task is to
 reconstruct the following plots below, all of which were constructed
 using the base plotting system.
 
-First you will need to fork and clone the following GitHub repository:
-[https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
+
 
 
 For each plot you should
@@ -92,23 +104,21 @@ date. There should be four PNG files and four R code files.
 The four plots that you will need to construct are shown below. 
 
 
-### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+ 
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+
+  
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
